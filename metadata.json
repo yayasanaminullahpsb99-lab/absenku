@@ -1,0 +1,6 @@
+{
+  "name": "AbsenKu",
+  "description": "Aplikasi absensi offline berbasis GPS dengan sistem rekap admin, manajemen karyawan, dan penyimpanan SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

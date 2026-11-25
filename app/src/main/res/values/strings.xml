@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AbsenKu</string>
+    <string name="gps_permission_title">Izin Lokasi GPS Diperlukan</string>
+    <string name="gps_permission_desc">AbsenKu membutuhkan akses lokasi GPS perangkat untuk memverifikasi jarak absensi secara offline terhadap titik lokasi yang diatur admin.</string>
+</resources>
